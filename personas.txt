@@ -1,0 +1,8 @@
+dni: 1, lastName: Trump, firstName: Donald
+
+dni: 2, lastName: apellido, firstName: nombre
+
+dni: 4, lastName: juan, firstName: suarez
+
+dni: 5, lastName: Dean, firstName: Jamie
+
